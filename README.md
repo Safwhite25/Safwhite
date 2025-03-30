@@ -1,4 +1,4 @@
-<h1>Hello, I'm Frankie, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hello, I'm Frankie, an <a href="www.linkedin.com/in/frankie-white-032075340">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
