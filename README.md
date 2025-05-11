@@ -1,7 +1,7 @@
 <h1>Hello, I'm Safiya (Frankie), an <a href="www.linkedin.com/in/frankie-white-032075340">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-- <b>Factory Reset Keylocked Windows Computer</b>(https://github.com/Safwhite25/osticket-prereqs) 
+
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Safwhite25/osticket-prereqs)
@@ -10,6 +10,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Safwhite25/configure-ad.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Safwhite25/azure-network-protocols.git)
+
+- <b>Microsoft </b>
 
 <h2>🤳Connect with me:</h2>
 
