@@ -1,7 +1,7 @@
 <h1>Hello, I'm Safiya (Frankie), an <a href="www.linkedin.com/in/frankie-white-032075340">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
- - Factory Reset Keylocked Windows Computer- [Factory Reset Keylocked Windows Computer](https://github.com/Safwhite25/osticket-prereqs) 
+- <b>Factory Reset Keylocked Windows Computer</b>(https://github.com/Safwhite25/osticket-prereqs) 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Safwhite25/osticket-prereqs)
