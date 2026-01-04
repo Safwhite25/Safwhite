@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Safwhite25/post-install-config.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Safwhite25/ticket-lifecycle.git)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Safwhite25/configure-ad.git)
+  - [Creating an Azure Virtual Machine](https://github.com/Safwhite25/configure-ad.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Safwhite25/azure-network-protocols.git)
 
 - <b>Microsoft </b>
